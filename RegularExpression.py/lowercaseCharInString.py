@@ -1,4 +1,4 @@
-# Find all uppercase characters in a string.
+# Find all lowercase characters in a string.
 import re
 
 text = input("Enter a string: ")
