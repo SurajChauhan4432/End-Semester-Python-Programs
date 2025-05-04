@@ -1,3 +1,4 @@
+# Make name error handler with built in exceptions. 
 num = input("Enter a number: ")
 
 try:
@@ -7,3 +8,4 @@ except ValueError:
     print(f"ValueError: '{num}' is not a valid integer.")
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
+ 
