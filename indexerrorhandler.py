@@ -1,3 +1,4 @@
+# Make index error handler with built in exceptions. 
 my_list = [10, 20, 30, 40, 50]
 
 index = 10
