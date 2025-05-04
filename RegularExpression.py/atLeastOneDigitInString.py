@@ -7,7 +7,7 @@ pattern = r"\d"
 
 digits = re.findall(pattern, text)
 
-if digits:
+if len(digits) >=1 :
     print("At least one digit found:", digits)
 else:
     print("No digits found in the string.")
