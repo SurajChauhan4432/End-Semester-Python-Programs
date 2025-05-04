@@ -1,5 +1,5 @@
 try:
-    print(undefined_variable)
+    print("undefined_variable")
 except NameError:
     print("Error: You tried to use a variable that hasn't been defined.")
 else:
