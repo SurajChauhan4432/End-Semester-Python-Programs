@@ -1,4 +1,4 @@
-# Make name error handler with built in exceptions. 
+# Make value error handler with built in exceptions. 
 num = input("Enter a number: ")
 
 try:
