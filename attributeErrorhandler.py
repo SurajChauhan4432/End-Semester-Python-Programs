@@ -1,3 +1,4 @@
+# Make attribute errors handler with built in exceptions.
 text = "Hello, world!"
 
 try:
