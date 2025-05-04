@@ -1,3 +1,4 @@
+# Make a zero division error handler with built in exceptions.
 try:
     numerator = float(input("Enter the numerator: "))
     denominator = float(input("Enter the denominator: "))
