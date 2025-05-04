@@ -1,3 +1,4 @@
+# Make file not found error handler with built in exceptions.
 file_name = "non_existing_file.txt"
 
 try:
