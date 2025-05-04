@@ -1,3 +1,4 @@
+# Make an error handler with the use of multiple except for all types of errors.
 try:
     user_input = input("Enter a number: ")
     number = int(user_input)
