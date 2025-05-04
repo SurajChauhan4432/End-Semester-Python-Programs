@@ -1,3 +1,4 @@
+# Make name error handler with built in exceptions.
 try:
     print("undefined_variable")
 except NameError:
