@@ -1,3 +1,4 @@
+# Make a key error handler with built in exceptions. 
 data = {
     "name": "Ben",
     "age": 30,
